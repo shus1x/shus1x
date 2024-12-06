@@ -1,4 +1,4 @@
-# Hi there, I'm [shus1x](/) ![](https://github.com/shus1x/shus1x/blob/main/images/capybara-minecraft.gif) 
+# Hi there, I'm [shus1x](https://github.com/shus1x/) ![](https://github.com/shus1x/shus1x/blob/main/images/capybara-minecraft.gif) 
 ### hello world!
 
 <!--
