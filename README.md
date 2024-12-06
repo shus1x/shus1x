@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi there, I'm [shus1x](https://dtf.ru/u/230490-shus1x/) ![](https://github.com/shus1x/shus1x/blob/main/images/capybara-minecraft.gif) 
+### hello world!
 
 <!--
 **shus1x/shus1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
